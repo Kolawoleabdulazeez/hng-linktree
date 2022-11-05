@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hng-linktree/static/css/main.440a51f5.css",
+    "main.js": "/hng-linktree/static/js/main.87dd3db4.js",
+    "static/media/profile__img.png": "/hng-linktree/static/media/profile__img.5ff40e1b5d2b90077f44.png",
+    "static/media/profile_hover.png": "/hng-linktree/static/media/profile_hover.3f377eb0bf1991ca86da.png",
+    "index.html": "/hng-linktree/index.html",
+    "main.440a51f5.css.map": "/hng-linktree/static/css/main.440a51f5.css.map",
+    "main.87dd3db4.js.map": "/hng-linktree/static/js/main.87dd3db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.440a51f5.css",
+    "static/js/main.87dd3db4.js"
+  ]
+}
